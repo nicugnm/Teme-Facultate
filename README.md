@@ -6,3 +6,4 @@ Temele si exercitiile pentru Facultatea de Matematica si Informatica, Universita
 
 ## Anul 1 - Semestrul 2
 - Calcul Numeric (Limbaj: Python)
+- Tehnici de Programare (Limbaj: C\C++)
